@@ -1,0 +1,7 @@
+requests
+numpy
+pandas
+aiohttp
+asyncio
+ta-lib
+matplotlib
